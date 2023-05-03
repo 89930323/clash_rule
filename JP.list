@@ -2,4 +2,4 @@
 DOMAIN,cdn.studyfun.live
 #NyaMedia代理线路代理
 DOMAIN,emby.bangumi.ca
-IP-CIDR,103.177.137.228/32,🇯🇵 日本节点,no-resolve
+IP-CIDR,103.177.137.228/8,🇯🇵 日本节点,no-resolve
