@@ -29,6 +29,7 @@ DOMAIN,embymv.tk
 DOMAIN,emby.lzlz.cc
 IP-CIDR,140.238.10.97/16,no-resolve
 #纸片人直连
+DOMAIN,embyplus.org
 DOMAIN,gd.9521732.xyz
 #不给看直连
 DOMAIN,emby.pro
