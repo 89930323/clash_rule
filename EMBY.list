@@ -12,7 +12,7 @@ DOMAIN,emby.bangumi.ca
 DOMAIN,cdn.studyfun.live
 #NyaMedia代理线路代理
 DOMAIN,emby.bangumi.ca
-IP-CIDR,103.177.137.228/8,🇯🇵 日本节点,no-resolve
+IP-CIDR,103.177.137.228/8,no-resolve
 #POLO主线路代理
 DOMAIN,df.poloemby.xyz
 #mjj新加坡线路代理
@@ -27,7 +27,7 @@ DOMAIN,emby.9191001.xyz
 DOMAIN,embymv.tk
 #dv服直连
 DOMAIN,emby.lzlz.cc
-IP-CIDR,140.238.10.97/16,DIRECT,no-resolve
+IP-CIDR,140.238.10.97/16,no-resolve
 #纸片人直连
 DOMAIN,gd.9521732.xyz
 #不给看直连
