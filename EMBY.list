@@ -1,0 +1,44 @@
+#misty代理
+DOMAIN,misty.ltd
+#卡戎代理
+DOMAIN,play.charontv.com
+#hxd主线路代理
+DOMAIN,bili.bili.rip
+#singularity代理
+DOMAIN,singularity.deja-vu.beauty
+#nyamedia非国内线路代理
+DOMAIN,emby.bangumi.ca
+#Study CDN线路代理
+DOMAIN,cdn.studyfun.live
+#NyaMedia代理线路代理
+DOMAIN,emby.bangumi.ca
+IP-CIDR,103.177.137.228/8,🇯🇵 日本节点,no-resolve
+#POLO主线路代理
+DOMAIN,df.poloemby.xyz
+#mjj新加坡线路代理
+DOMAIN,sg01.mjjemby.org
+#loser电信直连
+DOMAIN,4837.emby.ml
+#Captain-Z直连
+DOMAIN,emby.wiri.tk
+#卡卡服直连
+DOMAIN,emby.9191001.xyz
+#peach主线路直连
+DOMAIN,embymv.tk
+#dv服直连
+DOMAIN,emby.lzlz.cc
+IP-CIDR,140.238.10.97/16,DIRECT,no-resolve
+#纸片人直连
+DOMAIN,gd.9521732.xyz
+#不给看直连
+DOMAIN,emby.pro
+#魔法云直连
+DOMAIN,emby.freetz.top
+#orange cdn线路直连
+DOMAIN,cdn.embytv.cf
+#星云直连
+DOMAIN,direct.nebula-emby.com
+#jms直连
+DOMAIN,cf.jmsooo.com
+#水母直连
+DOMAIN,ws1.amazing910.top
