@@ -60,5 +60,5 @@ DOMAIN,zby.zi0.icu
 DOMAIN,emby.shuipo.lol
 IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
-kp.timeouts.info
+DOMAIN,kp.timeouts.info
 IP-CIDR,174.136.201.16/16,no-resolve
