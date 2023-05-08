@@ -58,5 +58,7 @@ DOMAIN,cf.zi0.icu
 DOMAIN,zby.zi0.icu
 #水泊梁山
 DOMAIN,emby.shuipo.lol
+IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
 kp.timeouts.info
+IP-CIDR,174.136.201.16/16,no-resolve
