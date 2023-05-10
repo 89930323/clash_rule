@@ -1,5 +1,3 @@
-#Emby进程
-PROCESS-NAME,electron.exe
 #misty代理
 DOMAIN,misty.ltd
 #卡戎代理
@@ -10,8 +8,11 @@ DOMAIN,usa.bili.rip
 #singularity代理
 DOMAIN,singularity.deja-vu.beauty
 #Study CDN线路代理
+DOMAIN,cf.studyfun.live
 DOMAIN,cdn.studyfun.live
+DOMAIN,stream.studyfun.live
 DOMAIN,cdn1.studyfun.live
+DOMAIN,stream1.studyfun.live
 #NyaMedia代理线路代理
 DOMAIN,emby.bangumi.ca
 IP-CIDR,103.177.137.228/8,no-resolve
