@@ -66,4 +66,5 @@ IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
 DOMAIN,kp.timeouts.info
 DOMAIN,flare.timeouts.info
+DOMAIN,xio.timeouts.co.uk
 IP-CIDR,174.136.201.16/16,no-resolve
