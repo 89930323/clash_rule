@@ -17,8 +17,8 @@ DOMAIN,stream1.studyfun.live
 DOMAIN,emby.bangumi.ca
 IP-CIDR,103.177.137.228/8,no-resolve
 #POLO主线路代理
-DOMAIN,df.poloemby.xyz
-DOMAIN,cf.poloemby.xyz
+DOMAIN,sf.poloemby.xyz
+DOMAIN,scf.poloemby.xyz
 #mjj新加坡线路代理
 DOMAIN,sg01.mjjemby.org
 DOMAIN,cf.mjjemby.org
