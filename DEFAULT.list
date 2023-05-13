@@ -4,5 +4,3 @@ DOMAIN-SUFFIX,www.gamegamept.com
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,www.speedtest.net
 DOMAIN-SUFFIX,www.ookla.com
-#TG视频流代理
-IP-CIDR,91.108.0.0/16,no-resolve
