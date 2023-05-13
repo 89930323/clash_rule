@@ -1,5 +1,5 @@
 #Emby进程
-PROCESS-NAME:electron.exe
+PROCESS-NAME：electron.exe
 #misty代理
 DOMAIN,misty.ltd
 #卡戎代理
