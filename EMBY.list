@@ -70,3 +70,6 @@ DOMAIN,kp.timeouts.info
 DOMAIN,flare.timeouts.info
 DOMAIN,xio.timeouts.co.uk
 IP-CIDR,174.136.201.16/16,no-resolve
+#品云
+DOMAIN,py.embyplus.club
+DOMAIN,py2.embyplus.club
