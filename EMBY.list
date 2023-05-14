@@ -73,3 +73,5 @@ IP-CIDR,174.136.201.16/16,no-resolve
 #品云
 DOMAIN,py.embyplus.club
 DOMAIN,py2.embyplus.club
+#cc公益
+DOMAIN,cc.ccemby.tk
