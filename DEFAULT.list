@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,www.gamegamept.com
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,www.speedtest.net
 DOMAIN-SUFFIX,www.ookla.com
+#Twitch
+DOMAIN-SUFFIX,www.twitch.tv
