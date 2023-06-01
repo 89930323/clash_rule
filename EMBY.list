@@ -12,9 +12,7 @@ DOMAIN,singularity.deja-vu.beauty
 #Study CDN线路代理
 DOMAIN,cf.studyfun.live
 DOMAIN,cdn.studyfun.live
-DOMAIN,stream.studyfun.live
 DOMAIN,cdn1.studyfun.live
-DOMAIN,stream1.studyfun.live
 #NyaMedia代理线路代理
 DOMAIN,emby.bangumi.ca
 IP-CIDR,103.177.137.228/8,no-resolve
@@ -79,3 +77,5 @@ DOMAIN,py2.embyplus.club
 DOMAIN,cc.ccemby.tk
 #会员制 EMBY 餐厅
 DOMAIN,emby.mius.uk
+#蓝海私服
+DOMAIN,emby.xiaoyi.one
