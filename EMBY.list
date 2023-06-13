@@ -70,7 +70,7 @@ IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
 DOMAIN,or.timeouts.info
 DOMAIN,flare.timeouts.info
-DOMAIN,x.starcat.eu.org
+DOMAIN,sdhh.catlinks.co.uk
 IP-CIDR,174.136.201.16/16,no-resolve
 #品云
 DOMAIN,py.embyplus.club
