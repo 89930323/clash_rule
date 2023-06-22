@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,support-valorant.riotgames.com
+PROCESS-NAME,vgc.exe
+PROCESS-NAME,vgtray.exe
+PROCESS-NAME,RiotClientUx.exe
+PROCESS-NAME,RiotClientUxRender.exe
+PROCESS-NAME,RiotClientServices.exe
+PROCESS-NAME,UnrealCEFSubProcess.exe
+PROCESS-NAME,VALORANT-Win64-Shipping.exe
+PROCESS-NAME,VALORANT.exe
