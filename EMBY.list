@@ -7,8 +7,6 @@ DOMAIN,play.charontv.com
 #hxd主线路代理
 DOMAIN,bili.bili.rip
 DOMAIN,usa.bili.rip
-#singularity代理
-DOMAIN,singularity.deja-vu.beauty
 #Study CDN线路代理
 DOMAIN,cf.studyfun.live
 DOMAIN,cdn.studyfun.live
@@ -45,40 +43,27 @@ DOMAIN,gd.9521732.xyz
 #不给看直连
 DOMAIN,emby.pro
 DOMAIN,emby.gtma.top
-#魔法云直连
-DOMAIN,emby.freetz.top
-DOMAIN,cf.freetz.top
-#orange cdn线路直连
-DOMAIN,cdn.embytv.cf
-DOMAIN,cf.embytv.cf
-#星云直连
-DOMAIN,direct.nebula-emby.com
 #jms直连
-DOMAIN,cf.jmsooo.com
-#hub代理
-DOMAIN,emby.ednovas.org
+DOMAIN,cf2.jmsooo.com
 
-#星空服
-DOMAIN,nl.774.gs
-DOMAIN,hlxsa.emby77.org
 #梓澪の妙妙屋服
 DOMAIN,cf.zi0.icu
 DOMAIN,zby.zi0.icu
 #水泊梁山
-DOMAIN,emby.shuipo.lol
+DOMAIN,cf.shuipo.lol
 IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
 DOMAIN,or.timeouts.info
 DOMAIN,flare.timeouts.info
 DOMAIN,sdhh.catlinks.co.uk
 IP-CIDR,174.136.201.16/16,no-resolve
-#品云
-DOMAIN,py.embyplus.club
-DOMAIN,py2.embyplus.club
 #cc公益
 DOMAIN,cc.ccemby.tk
 #会员制 EMBY 餐厅
 DOMAIN,emby.mius.uk
+DOMAIN,emby.ooii.net
+DOMAIN,emby.jiecaoyu.cn
+DOMAIN,emby-hkg.ooii.net
 #蓝海私服
 DOMAIN,emby.xiaoyi.one
 #GuGu
@@ -89,3 +74,5 @@ DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
 DOMAIN,pub4.emby.wtf
+#PornEmby
+DOMAIN,pornemby.club
