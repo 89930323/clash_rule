@@ -57,11 +57,7 @@ DOMAIN,zby.zi0.icu
 DOMAIN,cf.shuipo.lol
 IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
-DOMAIN,or.timeouts.info
-DOMAIN,flare.timeouts.info
-DOMAIN,sdhh.catlinks.co.uk
-DOMAIN,ore.starcat.eu.org
-IP-CIDR,174.136.201.16/16,no-resolve
+DOMAIN,flare.starcat.eu.org
 #cc公益
 DOMAIN,cc.ccemby.tk
 #会员制 EMBY 餐厅
