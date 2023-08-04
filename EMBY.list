@@ -59,6 +59,7 @@ IP-CIDR,147.78.0.16/16,no-resolve
 #cc公益
 DOMAIN,cc.ccemby.tk
 DOMAIN,dx1.carryz.net
+DOMAIN,dx2.carryz.net
 #会员制 EMBY 餐厅
 DOMAIN,emby.mius.uk
 DOMAIN,emby.ooii.net
