@@ -7,8 +7,6 @@ DOMAIN,play.charontv.com
 #hxd主线路代理
 DOMAIN,bili.bili.rip
 DOMAIN,usa.bili.rip
-#hxd动漫服
-DOMAIN,fuck.nvidia.rip
 #Study CDN线路代理
 DOMAIN,cf.studyfun.live
 DOMAIN,cdn.studyfun.live
@@ -29,6 +27,8 @@ IP-CIDR,114.96.109.46/8,no-resolve
 #loser电信直连
 DOMAIN,4837.emby.ml
 DOMAIN,cf.gtlx.org
+DOMAIN,de.xmsl.org
+DOMAIN,1.loseremby.org
 #Captain-Z直连
 DOMAIN,emby.wiri.tk
 DOMAIN,cfemby.wiri.tk
@@ -38,9 +38,6 @@ DOMAIN,emby.9191001.xyz
 DOMAIN,embymv.tk
 DOMAIN,kr.embymv.tk
 DOMAIN,jp.embymv.tk
-#dv服直连
-DOMAIN,emby.lzlz.cc
-IP-CIDR,140.238.10.97/16,no-resolve
 #纸片人直连
 DOMAIN,embyplus.org
 DOMAIN,gd.9521732.xyz
@@ -70,8 +67,7 @@ DOMAIN,emby-hkg.ooii.net
 #蓝海私服
 DOMAIN,zdb.xiaoyi.one
 #GuGu
-DOMAIN,emby.dicarerhome.com
-DOMAIN,emby-play.dicarerhome.com
+DOMAIN,front.gugumedia.link
 #终点站
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
@@ -81,9 +77,6 @@ DOMAIN,pub4.emby.wtf
 DOMAIN,pornemby.club
 #Infinity
 DOMAIN,vx.infinityfly.top
-#Marmot
-DOMAIN,v.20120714.xyz
-DOMAIN,xl.studyfun.live
 #Pilipili
 DOMAIN,pilipili-cf.emby77.org
 DOMAIN,pilipili.emby77.org
