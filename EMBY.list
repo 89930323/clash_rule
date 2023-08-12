@@ -56,6 +56,8 @@ IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
 DOMAIN,flare.starcat.eu.org
 IP-CIDR,147.78.0.16/16,no-resolve
+DOMAIN,emby.oreoc.net
+DOMAIN,ooo.887711.xyz
 #cc公益
 DOMAIN,cc.ccemby.tk
 DOMAIN,dx1.carryz.net
