@@ -1,6 +1,10 @@
 DOMAIN-SUFFIX,support-valorant.riotgames.com
 DOMAIN-SUFFIX,playvalorant.com
 DOMAIN-SUFFIX,auth.riotgames.com
+DOMAIN-SUFFIX,riotgames.zendesk.com
+DOMAIN-SUFFIX,cdn.playersupport.riotgames.com
+DOMAIN-SUFFIX,geo-info.publishing.riotgames.com
+DOMAIN-KEYWORD,riot
 PROCESS-NAME,vgc.exe
 PROCESS-NAME,vgtray.exe
 PROCESS-NAME,RiotClientUx.exe
