@@ -92,4 +92,4 @@ DOMAIN,146.56.36.1
 #Dolphin
 DOMAIN,public.emby.ws
 #多多阿里
-DOMAIN,134.195.90.239
+IP-CIDR,134.195.90.0/8,no-resolve
