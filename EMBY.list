@@ -8,7 +8,7 @@ DOMAIN,play.charontv.com
 DOMAIN,bili.bili.rip
 DOMAIN,4837.bili.rip
 DOMAIN,kr.bili.rip
-DOMAIN,193.123.246.14
+IP-CIDR,193.123.246.14/24,no-resolve
 #Study CDN线路代理
 DOMAIN,cf.studyfun.live
 DOMAIN,cdn.studyfun.live
@@ -32,9 +32,9 @@ DOMAIN,line.xmsl.org
 DOMAIN,pm.xmsl.org
 DOMAIN,cf.gtlx.org
 DOMAIN,4837.emby.ml
-DOMAIN,89.58.60.103
 DOMAIN,ushd.xmsl.org
-DOMAIN,104.194.8.196
+IP-CIDR,89.58.60.103/8,no-resolve
+IP-CIDR,104.194.8.196/8,no-resolve
 #Captain-Z直连
 DOMAIN,emby.wiri.tk
 DOMAIN,cfemby.wiri.tk
@@ -90,9 +90,9 @@ DOMAIN,emby.pilipiliultra.top
 DOMAIN,emby.pilipiliultra.com
 DOMAIN,src-emby.pilipiliultra.com
 DOMAIN,pilipili.mikuu.link
-DOMAIN,146.56.36.1
+IP-CIDR,146.56.36.1/16,no-resolve
 DOMAIN,push.pilipiliultra.com
 #Dolphin
 DOMAIN,public.emby.ws
 #多多阿里
-DOMAIN,134.195.90.239
+IP-CIDR,134.195.90.239/16,no-resolve
