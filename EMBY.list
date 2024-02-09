@@ -6,15 +6,8 @@ DOMAIN,misty.cx
 DOMAIN,play.charontv.com
 #hxd主线路代理
 DOMAIN,bili.bili.rip
-DOMAIN,4837.bili.rip
-DOMAIN,kr.bili.rip
-IP-CIDR,193.123.246.14/24,no-resolve
-#Study CDN线路代理
-DOMAIN,cf.studyfun.live
-DOMAIN,cdn.studyfun.live
-DOMAIN,stream.studyfun.live
-DOMAIN,cdn1.studyfun.live
-DOMAIN,stream1.studyfun.live
+DOMAIN,cdn.bili.rip
+IP-CIDR,152.70.239.210/16,no-resolve
 #NyaMedia代理线路代理
 DOMAIN,emby.bangumi.ca
 IP-CIDR,103.177.137.228/8,no-resolve
@@ -22,22 +15,19 @@ IP-CIDR,103.177.137.228/8,no-resolve
 DOMAIN,sf.poloemby.xyz
 DOMAIN,scf.poloemby.xyz
 #mjj新加坡线路代理
+DOMAIN,direct.mjjemby.org
 DOMAIN,sg01.mjjemby.org
 DOMAIN,cf.mjjemby.org
-DOMAIN,de.mjjemby.org
-IP-CIDR,114.96.109.46/8,no-resolve
+DOMAIN,kr.mjjemby.org:443
+DOMAIN,jp01.mjjemby.org
+DOMAIN,jp02.mjjemby.org
 #loser电信直连
 DOMAIN,cfde.xmsl.org
 DOMAIN,line.xmsl.org
 DOMAIN,pm.xmsl.org
 DOMAIN,cf.gtlx.org
-DOMAIN,4837.emby.ml
-DOMAIN,ushd.xmsl.org
 IP-CIDR,89.58.60.103/8,no-resolve
 IP-CIDR,104.194.8.196/8,no-resolve
-#Captain-Z直连
-DOMAIN,emby.wiri.tk
-DOMAIN,cfemby.wiri.tk
 #放映厅直连
 DOMAIN,emby.9191001.xyz
 #peach主线路直连
@@ -58,9 +48,6 @@ IP-CIDR,104.21.234.0/16,no-resolve
 #梓澪の妙妙屋服
 DOMAIN,cf.zi0.icu
 DOMAIN,zby.zi0.icu
-#水泊梁山
-DOMAIN,cf.shuipo.lol
-IP-CIDR,94.16.114.175/8,no-resolve
 #star cat
 DOMAIN,flare.starcat.eu.org
 DOMAIN,xxx.887711.xyz
@@ -96,3 +83,8 @@ DOMAIN,push.pilipiliultra.com
 DOMAIN,public.emby.ws
 #多多阿里
 IP-CIDR,134.195.90.239/16,no-resolve
+#特卡
+DOMAIN,emby.carlos.trade
+DOMAIN,sg.carlos.trade
+DOMAIN,cf.carlos.trade
+DOMAIN,emby.carlos.trade
