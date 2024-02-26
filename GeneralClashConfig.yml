@@ -281,6 +281,8 @@ cfw-bypass:
   - "*vpimg*"
   - "*xiami*"
   - "*xiaomi*"
+  #雷神加速器
+  - "*.leigod.com"
   # 360
   - "*.360.com"
   - "*.360kuai.com"
