@@ -3,7 +3,7 @@ PROCESS-NAME,electron.exe
 #misty代理
 DOMAIN,misty.cx
 #卡戎代理
-DOMAIN,play.charontv.com
+DOMAIN,docs.charontv.com
 #hxd主线路代理
 DOMAIN,bili.bili.rip
 DOMAIN,cdn.bili.rip
@@ -45,9 +45,6 @@ DOMAIN,s3.bgka.me
 #jms直连
 DOMAIN,cf2.jmsooo.com
 IP-CIDR,104.21.234.0/16,no-resolve
-#梓澪の妙妙屋服
-DOMAIN,cf.zi0.icu
-DOMAIN,zby.zi0.icu
 #star cat
 DOMAIN,flare.starcat.eu.org
 DOMAIN,xxx.887711.xyz
@@ -67,7 +64,6 @@ DOMAIN,front.gugumedia.link
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
-DOMAIN,pub4.emby.wtf
 #PornEmby
 DOMAIN,pornemby.club
 #Infinity
