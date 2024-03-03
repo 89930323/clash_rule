@@ -7,10 +7,10 @@ DOMAIN,docs.charontv.com
 #hxd主线路代理
 DOMAIN,bili.bili.rip
 DOMAIN,cdn.bili.rip
-IP-CIDR,152.70.239.210/16,no-resolve
+IP-CIDR,152.70.239.0/32,no-resolve
 #NyaMedia代理线路代理
 DOMAIN,emby.bangumi.ca
-IP-CIDR,103.177.137.228/8,no-resolve
+IP-CIDR,103.177.137.0/32,no-resolve
 #POLO主线路代理
 DOMAIN,sf.poloemby.xyz
 DOMAIN,scf.poloemby.xyz
@@ -26,8 +26,8 @@ DOMAIN,cfde.xmsl.org
 DOMAIN,line.xmsl.org
 DOMAIN,pm.xmsl.org
 DOMAIN,cf.gtlx.org
-IP-CIDR,89.58.60.103/8,no-resolve
-IP-CIDR,104.194.8.196/8,no-resolve
+IP-CIDR,89.58.60.0/32,no-resolve
+IP-CIDR,104.194.8.0/32,no-resolve
 #放映厅直连
 DOMAIN,emby.9191001.xyz
 #peach主线路直连
@@ -44,7 +44,7 @@ DOMAIN,drei.bgka.me
 DOMAIN,s3.bgka.me
 #jms直连
 DOMAIN,cf2.jmsooo.com
-IP-CIDR,104.21.234.0/16,no-resolve
+IP-CIDR,104.21.234.0/32,no-resolve
 #star cat
 DOMAIN,flarex.starcat.eu.org
 DOMAIN,xxx.887711.xyz
