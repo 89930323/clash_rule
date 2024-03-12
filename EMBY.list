@@ -1,89 +1,91 @@
+payload:
 #Emby进程
-PROCESS-NAME,electron.exe
+  - PROCESS-NAME,electron.exe
 #misty代理
-DOMAIN,misty.cx
+  - DOMAIN,misty.cx
 #卡戎代理
-DOMAIN,docs.charontv.com
+  - DOMAIN,docs.charontv.com
 #hxd主线路代理
-DOMAIN,bili.bili.rip
-DOMAIN,cdn.bili.rip
-IP-CIDR,152.70.239.0/32,no-resolve
+  - DOMAIN,bili.bili.rip
+  - DOMAIN,cdn.bili.rip
+  - IP-CIDR,152.70.239.0/32
 #NyaMedia代理线路代理
-DOMAIN,emby.bangumi.ca
-IP-CIDR,103.177.137.0/32,no-resolve
+  - DOMAIN,emby.bangumi.ca
+  - IP-CIDR,103.177.137.0/32
 #POLO主线路代理
-DOMAIN,sf.poloemby.xyz
-DOMAIN,scf.poloemby.xyz
+  - DOMAIN,sf.poloemby.xyz
+  - DOMAIN,scf.poloemby.xyz
 #mjj新加坡线路代理
-DOMAIN,direct.mjjemby.org
-DOMAIN,sg01.mjjemby.org
-DOMAIN,cf.mjjemby.org
-DOMAIN,kr.mjjemby.org:443
-DOMAIN,jp01.mjjemby.org
-DOMAIN,jp02.mjjemby.org
+  - DOMAIN,direct.mjjemby.org
+  - DOMAIN,sg01.mjjemby.org
+  - DOMAIN,cf.mjjemby.org
+  - DOMAIN,kr.mjjemby.org:443
+  - DOMAIN,jp01.mjjemby.org
+  - DOMAIN,jp02.mjjemby.org
 #loser电信直连
-DOMAIN,cfde.xmsl.org
-DOMAIN,line.xmsl.org
-DOMAIN,pm.xmsl.org
-DOMAIN,cf.gtlx.org
-IP-CIDR,89.58.60.0/32,no-resolve
-IP-CIDR,104.194.8.0/32,no-resolve
+  - DOMAIN,cfde.xmsl.org
+  - DOMAIN,line.xmsl.org
+  - DOMAIN,pm.xmsl.org
+  - DOMAIN,cf.gtlx.org
+  - IP-CIDR,89.58.60.0/32
+  - IP-CIDR,104.194.8.0/32
 #放映厅直连
-DOMAIN,emby.9191001.xyz
+  - DOMAIN,emby.9191001.xyz
 #peach主线路直连
-DOMAIN,embymv.tk
-DOMAIN,kr.embymv.tk
-DOMAIN,jp.embymv.tk
+  - DOMAIN,embymv.tk
+  - DOMAIN,kr.embymv.tk
+  - DOMAIN,jp.embymv.tk
 #纸片人直连
-DOMAIN,embyplus.org
-DOMAIN,gd.9521732.xyz
-DOMAIN,hyonix.embyplus.org
+  - DOMAIN,embyplus.org
+  - DOMAIN,gd.9521732.xyz
+  - DOMAIN,hyonix.embyplus.org
+  - IP-CIDR,89.58.18.0/32
 #不给看直连
-DOMAIN,t.emby.pro
-DOMAIN,drei.bgka.me
-DOMAIN,s3.bgka.me
+  - DOMAIN,t.emby.pro
+  - DOMAIN,drei.bgka.me
+  - DOMAIN,s3.bgka.me
 #jms直连
-DOMAIN,cf2.jmsooo.com
-IP-CIDR,104.21.234.0/32,no-resolve
+  - DOMAIN,cf2.jmsooo.com
+  - IP-CIDR,104.21.234.0/32
 #star cat
-DOMAIN,flarex.starcat.eu.org
-DOMAIN,xxx.887711.xyz
-DOMAIN,osccxw.starcat.eu.org
+  - DOMAIN,flarex.starcat.eu.org
+  - DOMAIN,xxx.887711.xyz
+  - DOMAIN,osccxw.starcat.eu.org
 #cc公益
-DOMAIN,cc.coemn.com
-DOMAIN,dx1.carryz.net
-DOMAIN,dx2.carryz.net
+  - DOMAIN,cc.coemn.com
+  - DOMAIN,dx1.carryz.net
+  - DOMAIN,dx2.carryz.net
 #会员制 EMBY 餐厅
-DOMAIN,emby.mius.uk
-DOMAIN,emby.ooii.net
-DOMAIN,emby.jiecaoyu.cn
-DOMAIN,emby-hkg.ooii.net
+  - DOMAIN,emby.mius.uk
+  - DOMAIN,emby.ooii.net
+  - DOMAIN,emby.jiecaoyu.cn
+  - DOMAIN,emby-hkg.ooii.net
 #GuGu
-DOMAIN,front.gugumedia.link
+  - DOMAIN,front.gugumedia.link
 #终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
+  - DOMAIN,pub1.emby.wtf
+  - DOMAIN,pub2.emby.wtf
+  - DOMAIN,pub3.emby.wtf
 #PornEmby
-DOMAIN,pornemby.club
+  - DOMAIN,pornemby.club
 #Infinity
-DOMAIN,vx.infinityfly.top
+  - DOMAIN,vx.infinityfly.top
 #Pilipili
-DOMAIN,emby.pilipiliultra.top
-DOMAIN,emby.pilipiliultra.com
-DOMAIN,src-emby.pilipiliultra.com
-DOMAIN,pilipili.mikuu.link
-IP-CIDR,146.56.36.1/16,no-resolve
-DOMAIN,push.pilipiliultra.com
+  - DOMAIN,emby.pilipiliultra.top
+  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,src-emby.pilipiliultra.com
+  - DOMAIN,pilipili.mikuu.link
+  - IP-CIDR,146.56.36.1/16
+  - DOMAIN,push.pilipiliultra.com
 #Dolphin
-DOMAIN,public.emby.ws
+  - DOMAIN,public.emby.ws
 #多多阿里
-IP-CIDR,134.195.90.239/16,no-resolve
+  - IP-CIDR,134.195.90.239/16
 #特卡
-DOMAIN,emby.carlos.trade
-DOMAIN,sg.carlos.trade
-DOMAIN,cf.carlos.trade
-DOMAIN,emby.carlos.trade
+  - DOMAIN,emby.carlos.trade
+  - DOMAIN,sg.carlos.trade
+  - DOMAIN,cf.carlos.trade
+  - DOMAIN,emby.carlos.trade
 #Lyrebird
-DOMAIN,direct.lyrebirdemby.com
-DOMAIN,cdn.lyrebirdemby.com
+  - DOMAIN,direct.lyrebirdemby.com
+  - DOMAIN,cdn.lyrebirdemby.com
