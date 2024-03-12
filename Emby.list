@@ -1,4 +1,4 @@
- payload:
+payload:
 #Emby进程
   - PROCESS-NAME,electron.exe
 #misty代理
