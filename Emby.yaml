@@ -75,7 +75,7 @@ payload:
   - DOMAIN,emby.pilipiliultra.com
   - DOMAIN,src-emby.pilipiliultra.com
   - DOMAIN,pilipili.mikuu.link
-  - IP-CIDR,146.56.36.1/16
+  - IP-CIDR,146.56.36.0/32
   - DOMAIN,push.pilipiliultra.com
 #Dolphin
   - DOMAIN,public.emby.ws
@@ -92,4 +92,4 @@ payload:
 #江湖
   - DOMAIN,film.reddust.link
 #飞跃彩虹
-  - DOMAIN,152.53.19.231
+  - IP-CIDR,152.53.19.0/32
