@@ -57,6 +57,7 @@ payload:
   - DOMAIN,cc.coemn.com
   - DOMAIN,dx1.carryz.net
   - DOMAIN,dx2.carryz.net
+  - IP-CIDR,193.123.252.0/32
 #会员制 EMBY 餐厅
   - DOMAIN,emby.mius.uk
   - DOMAIN,emby.ooii.net
