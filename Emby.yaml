@@ -46,22 +46,18 @@ payload:
 #jms直连
   - DOMAIN,cf2.jmsooo.com
   - IP-CIDR,104.21.234.0/32
-#star cat
+#star-cat
   - DOMAIN,flare.catlinks.co.uk
   - DOMAIN,xxx.887711.xyz
   - DOMAIN,osccxw.starcat.eu.org
+  - DOMAIN,starcat-gshou.887711.xyz
+  - DOMAIN,wu2qu382uwb2y431-wxbki2.catlink.eu.org:18481
+  - DOMAIN,shuigawd921hfs-ef27893hrsf.catlinks.co.uk:12182
 #cc公益
   - DOMAIN,cc.coemn.com
   - DOMAIN,dx1.carryz.net
   - DOMAIN,dx2.carryz.net
   - IP-CIDR,193.123.252.106/32
-#会员制 EMBY 餐厅
-  - DOMAIN,emby.mius.uk
-  - DOMAIN,emby.ooii.net
-  - DOMAIN,emby.jiecaoyu.cn
-  - DOMAIN,emby-hkg.ooii.net
-#GuGu
-  - DOMAIN,front.gugumedia.link
 #终点站
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub2.emby.wtf
@@ -77,10 +73,6 @@ payload:
   - DOMAIN,pilipili.mikuu.link
   - IP-CIDR,146.56.36.0/32
   - DOMAIN,push.pilipiliultra.com
-#Dolphin
-  - DOMAIN,public.emby.ws
-#多多阿里
-  - IP-CIDR,134.195.90.239/16
 #特卡
   - DOMAIN,emby.carlos.trade
   - DOMAIN,sg.carlos.trade
@@ -89,7 +81,3 @@ payload:
 #Lyrebird
   - DOMAIN,direct.lyrebirdemby.com
   - DOMAIN,cdn.lyrebirdemby.com
-#江湖
-  - DOMAIN,film.reddust.link
-#飞跃彩虹
-  - IP-CIDR,152.53.19.0/32
