@@ -32,8 +32,8 @@ payload:
   - DOMAIN,emby.9191001.xyz
 #peach主线路直连
   - DOMAIN,embymv.tk
-  - DOMAIN,kr.embymv.tk
-  - DOMAIN,jp.embymv.tk
+  - IP-CIDR,193.123.232.141/32
+  - IP-CIDR,168.138.45.100/32
 #纸片人直连
   - DOMAIN,embyplus.org
   - DOMAIN,gd.9521732.xyz
