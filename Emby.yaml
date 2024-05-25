@@ -27,8 +27,7 @@ payload:
 #loser电信直连
   - DOMAIN,ushd.xmsl.org
   - DOMAIN,cf.gtlx.org
-  - IP-CIDR,89.58.60.0/32
-  - IP-CIDR,104.194.8.0/32
+  - IP-CIDR,104.194.8.196/32
 #放映厅直连
   - DOMAIN,emby.9191001.xyz
 #peach主线路直连
