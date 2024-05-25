@@ -25,9 +25,7 @@ payload:
   - DOMAIN,jp01.mjjemby.org
   - DOMAIN,jp02.mjjemby.org
 #loser电信直连
-  - DOMAIN,cfde.xmsl.org
-  - DOMAIN,line.xmsl.org
-  - DOMAIN,pm.xmsl.org
+  - DOMAIN,ushd.xmsl.org
   - DOMAIN,cf.gtlx.org
   - IP-CIDR,89.58.60.0/32
   - IP-CIDR,104.194.8.0/32
