@@ -10,7 +10,7 @@ payload:
 #hxd主线路代理
   - DOMAIN,bili.bili.rip
   - DOMAIN,cdn.bili.rip
-  - IP-CIDR,152.70.239.0/32
+  - DOMAIN,cf.bili.rip
 #NyaMedia代理线路代理
   - DOMAIN,emby.bangumi.ca
   - IP-CIDR,103.177.137.0/32
@@ -38,14 +38,13 @@ payload:
   - DOMAIN,embyplus.org
   - DOMAIN,gd.9521732.xyz
   - DOMAIN,hyonix.embyplus.org
-  - IP-CIDR,89.58.18.0/32
+  - IP-CIDR,89.58.18.111/32
 #不给看直连
   - DOMAIN,t.emby.pro
   - DOMAIN,drei.bgka.me
   - DOMAIN,s3.bgka.me
 #jms直连
   - DOMAIN,cf2.jmsooo.com
-  - IP-CIDR,104.21.234.0/32
 #star-cat
   - DOMAIN,flare.catlinks.co.uk
   - DOMAIN,xxx.887711.xyz
@@ -55,8 +54,6 @@ payload:
   - DOMAIN,shuigawd921hfs-ef27893hrsf.catlinks.co.uk
 #cc公益
   - DOMAIN,cc.coemn.com
-  - DOMAIN,dx1.carryz.net
-  - DOMAIN,dx2.carryz.net
   - IP-CIDR,193.123.252.106/32
 #终点站
   - DOMAIN,pub1.emby.wtf
@@ -67,12 +64,10 @@ payload:
 #Infinity
   - DOMAIN,vx.infinityfly.top
 #Pilipili
+  - DOMAIN,stream_pilipili.misakaf.org
   - DOMAIN,emby.pilipiliultra.top
-  - DOMAIN,emby.pilipiliultra.com
-  - DOMAIN,src-emby.pilipiliultra.com
-  - DOMAIN,pilipili.mikuu.link
-  - IP-CIDR,146.56.36.0/32
-  - DOMAIN,push.pilipiliultra.com
+  - DOMAIN,emby.pilipiliultra.com:443
+  - DOMAIN,manga.pilipiliultra.com
 #特卡
   - DOMAIN,emby.carlos.trade
   - DOMAIN,sg.carlos.trade
