@@ -13,7 +13,7 @@ payload:
   - DOMAIN,cf.bili.rip
 #NyaMedia代理线路代理
   - DOMAIN,emby.bangumi.ca
-  - IP-CIDR,103.177.137.0/32
+  - IP-CIDR,103.177.137.228/32
 #POLO主线路代理
   - DOMAIN,sf.poloemby.xyz
   - DOMAIN,scf.poloemby.xyz
