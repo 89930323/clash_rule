@@ -3,6 +3,9 @@ payload:
   - PROCESS-NAME,electron.exe
 #Heisi
   - DOMAIN,i109.com
+  - DOMAIN,heisi.nekobox.best
+  - DOMAIN,h1.i109.com
+  - DOMAIN,h2.i109.com
 #misty代理
   - DOMAIN,misty.cx
 #卡戎代理
