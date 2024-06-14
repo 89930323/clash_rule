@@ -4,3 +4,5 @@ payload:
   - IP-CIDR,149.154.168.0/22
   - IP-CIDR6,2001:b28:f23c::/48
   - IP-CIDR6,2001:b28:f23f::/48
+  - IP-ASN,44907
+  - IP-ASN,62014
