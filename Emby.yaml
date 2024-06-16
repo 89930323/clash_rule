@@ -1,6 +1,8 @@
 payload:
 #Emby进程
   - PROCESS-NAME,electron.exe
+#天南小筑
+  - DOMAIN,emby.tnx.one
 #Heisi
   - DOMAIN,i109.com
   - DOMAIN,heisi.nekobox.best
