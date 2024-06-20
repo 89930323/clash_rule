@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,pphimalayanrt.com
   - PROCESS-NAME,gamingservices.exe
+  - PROCESS-NAME,RiotClientServices.exe
   - PROCESS-NAME,完美世界竞技平台.exe
   - PROCESS-NAME,cs2.exe
   - DOMAIN-KEYWORD,valorant
