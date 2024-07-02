@@ -85,3 +85,4 @@ payload:
 #江湖
   - DOMAIN,film.reddust.link
   - DOMAIN,jh.reddust.link
+  - IP-CIDR,146.56.179.83/32
