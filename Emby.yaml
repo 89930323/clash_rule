@@ -82,3 +82,6 @@ payload:
   - DOMAIN,emby.carlos.trade
 #Lyrebird
   - DOMAIN,cdn.lyrebirdemby.com
+#江湖
+  - DOMAIN,film.reddust.link
+  - DOMAIN,jh.reddust.link
