@@ -6,4 +6,4 @@ payload:
   - PROCESS-NAME,cs2.exe
   - DOMAIN-KEYWORD,valorant
   - DOMAIN-KEYWORD,Riot
-  - DOMAIN,egdownload.fastly-edge.com	
+  - DOMAIN,ipv4.egdownload.fastly-edge.com
