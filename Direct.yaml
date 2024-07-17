@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,valorant
   - DOMAIN-KEYWORD,Riot
   - DOMAIN,ipv4.egdownload.fastly-edge.com
+  - IP-CIDR,115.238.185.234/32
