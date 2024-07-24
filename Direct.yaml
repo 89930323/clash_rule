@@ -9,3 +9,4 @@ payload:
   - DOMAIN,ipv4.egdownload.fastly-edge.com
   - IP-CIDR,115.238.185.234/32
   - IP-CIDR,23.49.104.184/32
+  - DOMAIN,ssl.ptlogin2.qq.com
