@@ -86,3 +86,8 @@ payload:
   - DOMAIN,film.reddust.link
   - DOMAIN,jh.reddust.link
   - IP-CIDR,146.56.179.83/32
+#搬服
+  - DOMAIN,kr.955557.xyz
+  - DOMAIN,kr2.955557.xyz
+  - DOMAIN,cfbyg.955557.xyz
+  - DOMAIN,us.955557.xyz
